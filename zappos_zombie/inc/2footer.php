@@ -1,0 +1,1 @@
+© 2012<?php $d = date("Y"); if( $d > 2012){ echo(" - $d");} ?> Michael Hedden<br /><br />

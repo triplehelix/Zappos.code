@@ -1,0 +1,3 @@
+<strong>About The Zombie Survival Guide</strong><br />
+<p>&nbsp;The Zombie Survival Guide...
+</p>
