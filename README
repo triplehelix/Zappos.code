@@ -1,0 +1,7 @@
+zappos_zombie - Zombie webpage coded using php and html5. Tested with Xampp, shouldn't require any special configurations.
+
+zappos_ninjas - ninja book sorting program. coded in c++ using dev-c++ and compiled using dev-c++'s compiler. Included is the file ninjabooks.txt which contains the titles to be read, sorted, and outputed in the bookshelf pattern. currently contains 10 books, but is coded to handle more if the list is wanted to be beefed up.
+
+part3-dragonzoo.doc - contains my response for part3 of the application
+
+part4-excitement.doc - contains my response for part4 of the application
